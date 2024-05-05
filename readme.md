@@ -10,11 +10,13 @@
 
 WIP -->
 
-### My #30NitesOfCode pet 😼: [Check out my progress!](https://www.codedex.io/@kriztin/30-nites-of-code)
+### #30NitesOfCode pet 😼: [Check out my progress!](https://www.codedex.io/@kriztin/30-nites-of-code)
 
 <div align="center">
 
 ![@kriztin #30NitesOfCode](https://www.codedex.io/api/petStatus?user=kriztin)
-<h3>"Blaze"</h3>
+<img src="./evolved-happy-dinosaur.gif">
+<h3>Blaze 2.0 & Blaze</h3>
+<p>Started again with a new pet! Ready to take on another challenge!</p>
 </div>
 </div>
