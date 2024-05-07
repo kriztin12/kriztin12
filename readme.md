@@ -2,6 +2,7 @@
 <h1> Hii! 👾👋 </h1>
 
 ## About me ✍️
+
 - 👩‍💻 Currently learning more about **ReactJS**
 - 👾 Interested in **Game Development**
 - 🎮 Learning to create 2D pixel games in [Godot Engine](https://godotengine.org/).
@@ -10,12 +11,13 @@
 
 WIP -->
 
-### #30NitesOfCode pet 😼: [Check out my progress!](https://www.codedex.io/@kriztin/30-nites-of-code)
+### #30NitesOfCode pet 😼: [Check out my latest progress!](https://www.codedex.io/@kriztin/30-nites-of-code)
 
 <div align="center">
 
-![@kriztin #30NitesOfCode](https://www.codedex.io/api/petStatus?user=kriztin)
-<img src="./evolved-happy-dinosaur.gif">
+<a href="https://www.codedex.io/@kriztin/30-nites-of-code?pet=xTZrE0WMeweLVsdqqnRF">![@kriztin #30NitesOfCode](https://www.codedex.io/api/petStatus?user=kriztin)</a>
+<a href="https://www.codedex.io/@kriztin/30-nites-of-code?pet=yEZUi7VFpo5ymIqK49vO"><img src="./evolved-happy-dinosaur.gif"></a>
+
 <h3>Blaze 2.0 & Blaze</h3>
 <p>Started again with a new pet! Ready to take on another challenge!</p>
 </div>
