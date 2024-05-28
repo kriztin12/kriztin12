@@ -7,6 +7,10 @@
 - 👾 Interested in **Game Development**
 - 🎮 Learning to create 2D pixel games in [Godot Engine](https://godotengine.org/).
 
+
+## Check out some of my work!
+- 🕹️ Created a game, 2 persons team, check it out here: [Play Fishekai](https://itch.io/jam/-pixel-game-jam-2024/rate/2720757)
+
 <!-- ## Languages and Tools
 
 WIP -->
